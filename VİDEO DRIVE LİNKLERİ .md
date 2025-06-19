@@ -1,4 +1,3 @@
-VİDEO DRIVE LİNKLERİ 
 Veritabanı Yedekleme Ve Felaketten Kurtarma Planı: https://drive.google.com/file/d/1tIurhFcbhd-Ld7gpac6e0UuZmg_WB8lu/view?usp=sharing
 Veritabanı Performans Optimizasyonu Ve İzleme: https://drive.google.com/file/d/1nH6zS2FHfRgNuiJXExg3T-ZmwazJlvak/view?usp=sharing 
 Veritabanı Güvenliği ve Erişim Kontrolü: https://drive.google.com/file/d/1XLTF5WbABFvHzXt3OeIyT76lg4gm1mzB/view?usp=sharing
